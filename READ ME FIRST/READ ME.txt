@@ -1,0 +1,13 @@
+                                   BEST PLAYS
+
+1.     PLAYER REGISTRATION.PHP / PLAYER LOG-IN.PHP 
+
+2.     INDEX.PHP
+               HOME
+               SUBMIT
+                     -USE "SAMPLE INPUTS" FOLDER" TO UPLOAD SOMETHING IN WEBAPP
+                HIGHLIGHTS
+                     -DISPLAYS WHATEVER "HIGHLIGHTS" FOLDER HAS
+
+3.      LOGOUT.PHP
+    CYCLE BACK TO NUMBER 1.
