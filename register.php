@@ -53,7 +53,7 @@ if (isset($_POST['signup'])) {
             <h3><a href="register.php">Show us what you got!</a></h3>
         </div>
         <div id="addInfo">
-            <h3 data-toggle="tooltip" data-placement="top" title="CLICK TO LOGIN"><a href="login.php" id="clickhere">CLICK HERE TO LOGIN</a></h3>
+            <h3 data-toggle="tooltip" data-placement="top" title="CLICK TO LOGIN"><a href="index.php" id="clickhere">CLICK HERE TO LOGIN</a></h3>
         </div>
     </header>
 

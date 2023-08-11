@@ -2,7 +2,7 @@
 
 session_start();
 if (session_destroy()) {
-    headeR("Location: login.php");
+    headeR("Location: index.php");
 }
 
 ?>
